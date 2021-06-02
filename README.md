@@ -1,5 +1,6 @@
 # sistema-recomendacion-aws-zepellin
-
+## Introducción:
+....
 ## Contenido:
 - data: directorio para alojamiento de origenes de datos  
 - imagen: directorio para alojamiento de imagenes sobre la arquitectura

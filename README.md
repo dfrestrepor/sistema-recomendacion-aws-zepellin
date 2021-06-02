@@ -14,9 +14,9 @@ En el grupo de seguridad de la instancia maestra, se modifican el grupo de segur
 
 ## Instrucciones ejecución:
 
-- Carga de datos a carpeta **data
+- Carga de datos a carpeta **data**  
 - Ejecución de script **main/upload_to_s3.py** para cargar datos de manera local a bucket s3
-- Inicializar **cluster EMR  
+- Inicializar **cluster EMR**  
 - Ejecución de notebook **main/movies_csv_to_parquet.ipynb**  en **Apache Zeppelin** para convertir csv a parquet usando spark
 - Ejecución ......
     

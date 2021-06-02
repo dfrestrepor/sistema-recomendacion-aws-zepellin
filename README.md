@@ -2,6 +2,7 @@
 
 ## Contenido:
 - data: directorio para alojamiento de origenes de datos  
+- imagen: directorio para alojamiento de imagenes sobre la arquitectura
 - main: directorio para alojamiento de código fuente  
 
 ## Instrucciones ejecución:

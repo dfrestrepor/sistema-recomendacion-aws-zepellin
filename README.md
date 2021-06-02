@@ -9,6 +9,6 @@
     
       
 ## Arquitectura Sistema de recomendación:
-![Architecture](arquitectura-aws.png)
+![Architecture](imagen/arquitectura-aws.png)
 ## Arquitectura producción:
-![Architecture](arquitectura-aws-produccion.png)
+![Architecture](imagen/arquitectura-aws-produccion.png)
